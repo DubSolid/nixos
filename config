@@ -1,0 +1,28 @@
+{
+  "layer": "top",
+  "bar-id": "bar-0",
+  "mode": "dock",
+  "ipc": "true",
+  "position": "top",
+    "height": 30,
+    "width": 2,
+  "spacing": 2,
+    "margin-bottom": 2,
+    "margin-left": 2,
+    "margin-right": 2,
+  "modules-left": ["hyprland/workspaces"],
+  "modules-center": ["hyprland/window"],
+
+  "hyprland/workspaces": {
+    "format": "{name}: {icon}",
+    "format-icons": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "active": "",
+      "default": "",
+    },
+  },
+}
