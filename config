@@ -1,3 +1,4 @@
+# Waybar config
 {
   "layer": "top",
   "bar-id": "bar-0",
